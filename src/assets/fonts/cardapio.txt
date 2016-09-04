@@ -1,0 +1,302 @@
+ Ambiente
+
+A Pizzaria Castelli conta com uma moderna infra estrutura para melhor atendelos, onde oferece diversos ambientes.
+Aconchegante - Ambiente mais reservado com paisagismo e um lindo mini lago com peixes ornamentais.
+Ao ar Livre - Ambiente sem cobertura ótimo para você relaxar nos dias quentes.
+
+Rodizio
+
+Atendendo sempre com qualidade, e sempre oferecendo o melhor, o Rodízio de Pizzas do Castelli possui os mais variados sabores de pizzas para todos os gostos e idades, incluindo pizzas doces.
+Além do do Rodizio de Pizzas, o Castelli tambem oferece um delicioso Self Service com massas, frios, saladas e carnes, para acompanhar o rodizio de Pizzas.
+
+Estacionamento
+
+Para você não perder tempo e poder saborear logo as delicias do Castelli, a Pizzaria Castelli oferece um estacionamento privativo para que você possa estacionar rapidamente e com segurança.
+
+Mais Delicias
+
+Além das deliciosas Pizzas, o Castelli tambem oferece lanches, porções, doces e sorvetes.
+Possui tambem uma vasta opções de bebebidas como refrigerante, guaraná, refrigerantes diets e lights, sucos de fruta, batidas, caipirinhas, Vinho e aquela cervejinha bem gelada, além da famosa Torre de Cerveja.
+
+
+########## PIZZAS ##########
+
+01 ALFACE - 34,90
+Molho, mussarela, alface picado, molho branco, tomate, bacon, orégano e azeitonas
+
+02 ALHO E ÓLEO - 30,90
+Molho, mussarela, alho frito, orégano e azeitonas
+
+03 ALICHE - 42,90
+Molho, filé de anchova (aliche), tomate, orégano e azeitonas
+
+04 ATRAÇÃO - 45,90
+Molho, peito de peru, catupiry, ervilha, cebola, orégano e azeitonas
+
+05 ATUM - 33,90
+Molho, atum, cebola, tomate, orégano e azeitonas
+
+06 ATUMPIRY - 42,90
+Molho, mussarela, atum, cebola, catupiry, orégano e azeitonas
+
+07 BACON - 34,90
+Molho, mussarela, bacon, orégano e azeitonas
+
+08 BAIACATU - 34,90
+Molho, calabresa moída, catupiry, mussarela, orégano e azeitonas
+
+09 BAIANA - 33,90
+Molho, calabresa moída, cebola, mussarela, orégano e azeitonas
+
+10 BERINJELA - 33,90
+Molho, berinjela ao alho e óleo, mussarela, orégano e azeitonas
+
+11 BRÓCOLIS - 36,90
+Molho, mussarela, brócolis, bacon, orégano e azeitonas
+
+12 CALÁBRIA - 39,90
+Molho, mussarela, calabresa, bacon picado, cebola, orégano e azeitonas
+
+13 CALZONE 4 QUEIJOS - 40,90
+Molho, mussarela, provolone, gorgonzola, catupiry, orégano e azeitonas
+
+14 CALZONE CAT FRANGO - 40,90
+Molho, frango desfiado, catupiry, mussarela, orégano e azeitonas
+
+15 CALZONE TRADICIONAL - 40,90
+Molho, ricota, calabresa, presunto, cebola, orégano e azeitonas
+
+16 CAMARÃO - 59,90
+Molho, catupiry, mussarela, camarão, champignon, orégano e azeitonas
+
+17 CALABRESA - 27,90
+Molho, calabresa, cebola, orégano e azeitonas
+
+18 CASTELLI ESPECIAL - 69,90
+Molho, mussarela, palmito, champignon, catupiry, camarão, orégano e azeitonas
+
+19 COUVE-FLOR - 36,90
+MOlho, presunto, couve flor, molho branco, mussarela, orégano e azeitonas
+
+20 CAT CALABRESA - 37,90
+Molho, mussarela, calabresa, catupiry, orégano e azeitonas
+
+21 CAT FRANGO - 39,90
+Molho, frango desfiado, catupiry, mussarela, orégano e azeitonas
+
+22 CAT LOMBO - 39,90
+Molho, lombo canadense, catupiry, mussarela, orégano e azeitonas
+
+23 CAT MILHO - 35,90
+Molho, milho verde, catupiry, mussarela, orégano e azeitonas
+
+24 CAT PERU - 48,90
+Molho, peito de peru, bacon, champignon, catupiry, mussarela, orégano e azeitonas
+
+25 CATUPIRY - 31,90
+Molho, catupiry, mussarela, orégano e azeitonas
+
+26 CHAMPIGNON - 42,90
+Molho, champignon, cebola, mussarela, orégano e azeitonas
+
+27 CINCO QUEIJOS - 45,90
+Molho, mussarela, provolone, catupiry, gorgonzola, parmessão, orégano e azeitonas
+
+28 CROCANTE - 38,90
+Molho, mussarela, frango desfiado, batata palha, milho, orégano e azeitonas
+
+29 DU HILÁRIO - 46,90
+Molho, mussarela, tomate, ervilha, ovo, palmito, calabresa, orégano e azeitonas
+
+30 DU TONINHO - 46,90
+Molho, mussarela, catupiry, provolone, gorgonzola, calabresa, orégano e azeitonas
+
+31 ESCAROLA ALICHE - 39,90
+Molho, escarola, filé de anchova, mussarela, orégano e azeitonas
+
+32 ESCAROLA BACON - 39,90
+Molho, escarola, mussarela, bacon, orégano e azeitonas
+
+33 ESPANHOLA - 43,90
+Molho, presunto, palmito, cebola, ovos, ervilha, mussarela, orégano e azeitonas
+
+34 FILÉ - 57,90
+Molho, mussarela, filé mignon, cebola, tomate, orégano e azeitonas
+
+35 FRANBACON - 45,90
+Molho, mussarela, frango desfiado, milho, bacon, tomate, orégano e azeitonas
+
+36 FRANCESA - 33,90
+Molho, mussarela, calabresa, orégano e azeitonas
+
+---36 FRANCESA INVERTIDA - 36,90
+Molho, mussarela, calabresa, orégano e azeitonas
+
+37 FRANGO - 38,90
+Molho, frango desfiado, milho, cebola, mussarela, orégano e azeitonas
+
+38 GORGONZOLA - 39,90
+Molho, mussarela, gorgonzola, orégano e azeitonas
+
+39 ITALIA - 38,90
+Molho, mussarela, tomate seco, orégano e azeitonas
+
+40 LOMBO - 39,90
+Molho, mussarela, lombo, cebola, orégano e azeitonas
+
+41 MANJERICÃO - 29,90
+Molho, mussarela, manjericão, tomate, orégano e azeitonas
+
+42 MARGARIDA - 33,90
+Molho, presunto, cebola, mussarela, tomate, orégano e azeitonas
+
+43 MARGUERITE - 33,90
+Molho, mussarela, manjericão, parmesão, tomate, orégano e azeitonas
+
+44 MILHO VERDE - 29,90
+Molho, milho verde, cebola, mussarela, orégano e azeitonas
+
+45 MINEIRA - 39,90
+Molho, calabresa moída, bacon, mussarela, orégano e azeitonas
+
+46 MODA CASTELLI - 46,90
+Molho, mussarela, palmito, catupiry, orégano e azeitonas
+
+47 MODA DA CASA - 42,90
+Molho, atum, ervilha, cebola, mussarela, orégano e azeitonas
+
+48 MODA DO PATRÃO - 49,90
+Molho, presunto, mussarela, calabresa, palmito, milho verde, orégano e azeitonas
+
+49 MODA DO PIZZAIOLO - 47,90
+Molho, atum, bacon, cebola, mussarela, tomate, orégano e azeitonas
+
+50 MUSSARELA - 27,90
+Molho, mussarela, tomate, orégano e azeitonas
+
+51 NAPOLITANA - 33,90
+Molho, mussarela, parmesão, tomate, orégano e azeitonas
+
+52 NOSTRA CASA - 49,90
+Molho, atum, ervilha, cebola, palmito, ovos, catupiry, mussarela, orégano e azeitonas
+
+53 PALMITO - 41,90
+Molho, mussarela, palmito, cebola, orégano e azeitonas
+
+54 PARIS - 38,90
+Molho, presunto, mussarela, calabresa, orégano e azeitonas
+
+55 PARISIENSE - 42,90
+Molho, presunto, mussarela, calabresa, catupiry, orégano e azeitonas
+
+
+
+100 PEPPERONI - 43,90
+Molho, mussarela, pepperoni, orégano e azeitonas
+
+56 PROVOLONE - 35,90
+Molho, provolone, mussarela, orégano e azeitonas
+
+57 QUATRO ESTAÇÕES - 31,90
+Molho, 1/4 calabresa, 1/4 mussarela, 1/4 milho verde, 1/4 presunto, cebola, orégano e azeitonas
+
+58 QUATRO QUEIJOS - 42,90
+Molho, mussarela, provolone, gorgonzola, catupiry, orégano e azeitonas
+
+59 ROMANA - 43,90
+Molho, mussarela, filé de anchova (aliche), parmesão, tomate, orégano e azeitonas
+
+60 RÚCULA - 36,90
+Molho, rúcula, tomate seco, mussarela, orégano e azeitonas
+
+61 RÚSTICA - 40,90
+Molho, ricota, bacon, mussarela, orégano e azeitonas
+
+62 SALAME - 40,90
+Molho, salame, mussarela, orégano e azeitonas
+
+63 SAUDADE - 47,90
+Molho, mussarela, presunto, atum, cebola, milho verde, catupiry, orégano e azeitonas
+
+64 SICILIANE - 43,90
+Molho, champignon, bacon, mussarela, orégano e azeitonas
+
+65 STROGONOFF DE CARNE - 46,90
+Molho, strogonoff de carne, mussarela, batata palha, orégano e azeitonas
+
+66 STROGONOFF DE FRANGO - 46,90
+Molho, strogonoff de frango, mussarela, batata palha, orégano e azeitonas
+
+67 TRÊS QUEIJOS - 38,90
+Molho, mussarela, provolone, catupiry, orégano e azeitonas
+
+68 TROPEIRA - 44,90
+Molho, carne seca desfiada, cebola, mussarela, orégano e azeitonas
+
+69 VEGETARIANA - 44,90
+Molho, ricota, champignon, palmito, escarola, orégano e azeitonas
+
+91 MODA ANTONIETA - 49,90
+Molho, carne seca, cebola, catupiry, mussarela, bacon, orégano e azeitonas
+
+92 FRANCHEDDAR - 43,90
+Molho, frango desfiado, cheddar, mussarela, orégano e azeitonas
+
+
+########## ADICIONAIS PARA PIZZA ##########
+
+bacon - 9,00
+batata palha - 5,00
+calabresa - 8,00
+catupiry - 6,00
+champignon - 8,00
+cheddar - 8,00
+ervilha - 5,00
+milho - 5,00
+mussarela - 10,00
+ovo - 4,00
+palmito - 10,00
+presunto = 9,00
+tomate seco - 9,00
+
+
+########## BORDAS SALGADAS ##########
+
+baiana - 5,00
+catupiry - 4,00
+cheddar - 6,00
+
+
+########## PIZZAS DOCES ##########
+
+80 BEIJINHO - 30,90
+mussarela, doce de coco e leite condensado
+
+81 BRIGADEIRO - 28,90
+Mussarela, brigadeiro e chocolate granulado
+
+82 CHARGE - 34,90
+Doce de leite, amendoim triturado, chocolate ao leite e creme de leite
+
+83 ROMEU E JULIETA - 34,90
+Mussarela e goiabada
+
+SONHO DE VALSA - 36,90
+Massa, chocolate ao leite, bombom e creme de leite
+
+ABACAXI COM CHOCOLATE BRANCO - 36,90
+Massa, abacaxi com calda, chocolate branco, creme de leite e canela em pó
+
+BANANA - 34,90
+Massa, banana caramelada, mussarela, leite condensado e canela em pó
+
+84 SORVETE - 34,90
+Massa e sorvete com cobertura
+
+
+########## BORDAS DOCES ##########
+
+brigadeiro - 5,00
+doce de leite - 5,00
+goiabada - 5,00
+
